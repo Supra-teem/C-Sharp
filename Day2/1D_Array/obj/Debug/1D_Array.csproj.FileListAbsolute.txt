@@ -1,0 +1,7 @@
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\1D_Array\obj\Debug\1D_Array.csproj.AssemblyReference.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\1D_Array\obj\Debug\1D_Array.csproj.CoreCompileInputs.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\1D_Array\bin\Debug\1D_Array.exe.config
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\1D_Array\bin\Debug\1D_Array.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\1D_Array\bin\Debug\1D_Array.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\1D_Array\obj\Debug\1D_Array.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\1D_Array\obj\Debug\1D_Array.pdb

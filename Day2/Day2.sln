@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "static_variables", "static_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csproj", "{3F3836FA-0124-45BA-AD6C-12AFBB792444}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1D_Array", "1D_Array\1D_Array.csproj", "{D1936CDD-1DC9-4529-A7C4-20B1D8A873AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3F3836FA-0124-45BA-AD6C-12AFBB792444}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F3836FA-0124-45BA-AD6C-12AFBB792444}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F3836FA-0124-45BA-AD6C-12AFBB792444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1936CDD-1DC9-4529-A7C4-20B1D8A873AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1936CDD-1DC9-4529-A7C4-20B1D8A873AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1936CDD-1DC9-4529-A7C4-20B1D8A873AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1936CDD-1DC9-4529-A7C4-20B1D8A873AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
