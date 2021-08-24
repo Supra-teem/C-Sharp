@@ -1,0 +1,7 @@
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\Employee_Inheritance\bin\Debug\Employee_Inheritance.exe.config
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\Employee_Inheritance\bin\Debug\Employee_Inheritance.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\Employee_Inheritance\bin\Debug\Employee_Inheritance.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\Employee_Inheritance\obj\Debug\Employee_Inheritance.csproj.AssemblyReference.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\Employee_Inheritance\obj\Debug\Employee_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\Employee_Inheritance\obj\Debug\Employee_Inheritance.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\Employee_Inheritance\obj\Debug\Employee_Inheritance.pdb
