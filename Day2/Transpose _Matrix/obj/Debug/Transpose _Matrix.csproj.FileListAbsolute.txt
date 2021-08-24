@@ -1,0 +1,7 @@
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\Transpose _Matrix\bin\Debug\Transpose _Matrix.exe.config
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\Transpose _Matrix\bin\Debug\Transpose _Matrix.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\Transpose _Matrix\bin\Debug\Transpose _Matrix.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\Transpose _Matrix\obj\Debug\Transpose _Matrix.csproj.AssemblyReference.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\Transpose _Matrix\obj\Debug\Transpose _Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\Transpose _Matrix\obj\Debug\Transpose _Matrix.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\Transpose _Matrix\obj\Debug\Transpose _Matrix.pdb
