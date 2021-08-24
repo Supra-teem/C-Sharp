@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transpose _Matrix", "Transp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee_Inheritance", "Employee_Inheritance\Employee_Inheritance.csproj", "{3E5600FD-6380-47F9-9337-EDE93DFF1E7D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overriding", "Overriding\Overriding.csproj", "{E1923068-0E5D-4DE2-BFF1-AE736EDB486B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3E5600FD-6380-47F9-9337-EDE93DFF1E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E5600FD-6380-47F9-9337-EDE93DFF1E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E5600FD-6380-47F9-9337-EDE93DFF1E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1923068-0E5D-4DE2-BFF1-AE736EDB486B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1923068-0E5D-4DE2-BFF1-AE736EDB486B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1923068-0E5D-4DE2-BFF1-AE736EDB486B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1923068-0E5D-4DE2-BFF1-AE736EDB486B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

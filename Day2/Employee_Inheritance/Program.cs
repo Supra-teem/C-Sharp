@@ -25,7 +25,7 @@ namespace Employee_Inheritance
         }
 
     }
-    class Program : Employee
+    class Programs
     {
         
         static void Main(string[] args)
