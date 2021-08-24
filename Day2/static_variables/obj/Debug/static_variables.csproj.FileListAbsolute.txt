@@ -1,0 +1,7 @@
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\static_variables\bin\Debug\static_variables.exe.config
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\static_variables\bin\Debug\static_variables.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\static_variables\bin\Debug\static_variables.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\static_variables\obj\Debug\static_variables.csproj.AssemblyReference.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\static_variables\obj\Debug\static_variables.csproj.CoreCompileInputs.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\static_variables\obj\Debug\static_variables.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\static_variables\obj\Debug\static_variables.pdb
