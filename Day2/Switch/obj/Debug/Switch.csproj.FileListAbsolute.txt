@@ -1,0 +1,7 @@
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\Switch\bin\Debug\Switch.exe.config
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\Switch\bin\Debug\Switch.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\Switch\bin\Debug\Switch.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\Switch\obj\Debug\Switch.csproj.AssemblyReference.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\Switch\obj\Debug\Switch.csproj.CoreCompileInputs.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\Switch\obj\Debug\Switch.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day2\Switch\obj\Debug\Switch.pdb
