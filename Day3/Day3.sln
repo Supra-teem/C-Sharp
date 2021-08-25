@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversion", "Prog1\Convers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "As and Is operator", "As operator\As and Is operator.csproj", "{DDA17CF8-8579-4575-9E98-5F1218736110}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception Handling", "Exception Handling\Exception Handling.csproj", "{300C351A-4142-432B-94EA-4E4BA7CB1D04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DDA17CF8-8579-4575-9E98-5F1218736110}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDA17CF8-8579-4575-9E98-5F1218736110}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDA17CF8-8579-4575-9E98-5F1218736110}.Release|Any CPU.Build.0 = Release|Any CPU
+		{300C351A-4142-432B-94EA-4E4BA7CB1D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{300C351A-4142-432B-94EA-4E4BA7CB1D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{300C351A-4142-432B-94EA-4E4BA7CB1D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{300C351A-4142-432B-94EA-4E4BA7CB1D04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

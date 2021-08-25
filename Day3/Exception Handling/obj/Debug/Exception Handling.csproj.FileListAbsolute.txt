@@ -1,0 +1,7 @@
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Exception Handling\bin\Debug\Exception Handling.exe.config
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Exception Handling\bin\Debug\Exception Handling.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Exception Handling\bin\Debug\Exception Handling.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Exception Handling\obj\Debug\Exception Handling.csproj.AssemblyReference.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Exception Handling\obj\Debug\Exception Handling.csproj.CoreCompileInputs.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Exception Handling\obj\Debug\Exception Handling.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Exception Handling\obj\Debug\Exception Handling.pdb
