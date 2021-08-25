@@ -1,0 +1,7 @@
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Prog1\bin\Debug\Prog1.exe.config
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Prog1\bin\Debug\Prog1.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Prog1\bin\Debug\Prog1.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Prog1\obj\Debug\Prog1.csproj.AssemblyReference.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Prog1\obj\Debug\Prog1.csproj.CoreCompileInputs.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Prog1\obj\Debug\Prog1.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Prog1\obj\Debug\Prog1.pdb

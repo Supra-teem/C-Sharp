@@ -1,0 +1,7 @@
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\As operator\bin\Debug\As operator.exe.config
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\As operator\bin\Debug\As operator.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\As operator\bin\Debug\As operator.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\As operator\obj\Debug\As and Is operator.csproj.CoreCompileInputs.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\As operator\obj\Debug\As operator.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\As operator\obj\Debug\As operator.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\As operator\obj\Debug\As and Is operator.csproj.AssemblyReference.cache
