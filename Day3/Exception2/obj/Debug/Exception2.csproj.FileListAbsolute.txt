@@ -1,0 +1,7 @@
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Exception2\bin\Debug\Exception2.exe.config
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Exception2\bin\Debug\Exception2.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Exception2\bin\Debug\Exception2.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Exception2\obj\Debug\Exception2.csproj.AssemblyReference.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Exception2\obj\Debug\Exception2.csproj.CoreCompileInputs.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Exception2\obj\Debug\Exception2.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Exception2\obj\Debug\Exception2.pdb

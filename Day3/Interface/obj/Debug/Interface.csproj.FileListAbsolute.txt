@@ -1,0 +1,7 @@
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Interface\bin\Debug\Interface.exe.config
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Interface\bin\Debug\Interface.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Interface\bin\Debug\Interface.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Interface\obj\Debug\Interface.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day3\Interface\obj\Debug\Interface.pdb
