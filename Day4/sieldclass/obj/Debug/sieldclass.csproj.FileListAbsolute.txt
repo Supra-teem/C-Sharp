@@ -1,0 +1,6 @@
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\sieldclass\bin\Debug\sieldclass.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\sieldclass\bin\Debug\sieldclass.exe.config
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\sieldclass\obj\Debug\sieldclass.csproj.CoreCompileInputs.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\sieldclass\obj\Debug\sieldclass.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\sieldclass\obj\Debug\sieldclass.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\sieldclass\bin\Debug\sieldclass.pdb
