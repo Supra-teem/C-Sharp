@@ -1,0 +1,7 @@
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\Partial class\bin\Debug\Partial class.exe.config
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\Partial class\bin\Debug\Partial class.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\Partial class\bin\Debug\Partial class.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\Partial class\obj\Debug\Partial class.csproj.AssemblyReference.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\Partial class\obj\Debug\Partial class.csproj.CoreCompileInputs.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\Partial class\obj\Debug\Partial class.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\Partial class\obj\Debug\Partial class.pdb
