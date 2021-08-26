@@ -1,0 +1,7 @@
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\static,Readonly,Const\bin\Debug\static,Readonly,Const.exe.config
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\static,Readonly,Const\bin\Debug\static,Readonly,Const.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\static,Readonly,Const\bin\Debug\static,Readonly,Const.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\static,Readonly,Const\obj\Debug\static,Readonly,Const.csproj.CoreCompileInputs.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\static,Readonly,Const\obj\Debug\static,Readonly,Const.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\static,Readonly,Const\obj\Debug\static,Readonly,Const.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\static,Readonly,Const\obj\Debug\static,Readonly,Const.csproj.AssemblyReference.cache
