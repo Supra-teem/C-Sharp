@@ -29,14 +29,14 @@ namespace Destructor
 
         static void Main(string[] args)
         {
-            int i;
-            for (i = 0; i < 10; i++)
-            {
-                test t = new test();
-                t.Dispose();
-            }
-            //Class1 c= new Class1();
-            //c.welcome();
+            //int i;
+            //for (i = 0; i < 10; i++)
+            //{
+            //    test t = new test();
+            //    t.Dispose();
+            //}
+            Class1 c = new Class1();
+            c.welcome();
 
         }
     }

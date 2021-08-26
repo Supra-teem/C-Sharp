@@ -1,0 +1,5 @@
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\TestClass\TestClass\bin\Debug\TestClass.dll
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\TestClass\TestClass\bin\Debug\TestClass.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\TestClass\TestClass\obj\Debug\TestClass.csproj.CoreCompileInputs.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\TestClass\TestClass\obj\Debug\TestClass.dll
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\TestClass\TestClass\obj\Debug\TestClass.pdb
