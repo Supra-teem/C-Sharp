@@ -1,0 +1,10 @@
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\Destructor\bin\Debug\Destructor.exe.config
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\Destructor\bin\Debug\Destructor.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\Destructor\bin\Debug\Destructor.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\Destructor\obj\Debug\Destructor.csproj.AssemblyReference.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\Destructor\obj\Debug\Destructor.csproj.CoreCompileInputs.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\Destructor\obj\Debug\Destructor.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\Destructor\obj\Debug\Destructor.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\Destructor\bin\Debug\TestClass.dll
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\Destructor\bin\Debug\TestClass.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\Destructor\obj\Debug\Destructor.csproj.CopyComplete
