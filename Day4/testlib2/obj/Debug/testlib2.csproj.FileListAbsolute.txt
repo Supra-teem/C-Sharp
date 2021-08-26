@@ -1,0 +1,5 @@
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\testlib2\bin\Debug\testlib2.dll
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\testlib2\bin\Debug\testlib2.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\testlib2\obj\Debug\testlib2.csproj.CoreCompileInputs.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\testlib2\obj\Debug\testlib2.dll
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\testlib2\obj\Debug\testlib2.pdb
