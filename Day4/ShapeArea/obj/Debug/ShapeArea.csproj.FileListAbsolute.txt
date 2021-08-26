@@ -1,0 +1,6 @@
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\ShapeArea\bin\Debug\ShapeArea.dll
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\ShapeArea\bin\Debug\ShapeArea.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\ShapeArea\obj\Debug\ShapeArea.csproj.AssemblyReference.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\ShapeArea\obj\Debug\ShapeArea.csproj.CoreCompileInputs.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\ShapeArea\obj\Debug\ShapeArea.dll
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\ShapeArea\obj\Debug\ShapeArea.pdb

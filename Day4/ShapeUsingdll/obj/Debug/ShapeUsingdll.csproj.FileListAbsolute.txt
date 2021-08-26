@@ -1,0 +1,10 @@
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\ShapeUsingdll\bin\Debug\ShapeUsingdll.exe.config
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\ShapeUsingdll\bin\Debug\ShapeUsingdll.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\ShapeUsingdll\bin\Debug\ShapeUsingdll.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\ShapeUsingdll\bin\Debug\ShapeArea.dll
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\ShapeUsingdll\bin\Debug\ShapeArea.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\ShapeUsingdll\obj\Debug\ShapeUsingdll.csproj.AssemblyReference.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\ShapeUsingdll\obj\Debug\ShapeUsingdll.csproj.CoreCompileInputs.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\ShapeUsingdll\obj\Debug\ShapeUsingdll.csproj.CopyComplete
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\ShapeUsingdll\obj\Debug\ShapeUsingdll.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day4\ShapeUsingdll\obj\Debug\ShapeUsingdll.pdb
