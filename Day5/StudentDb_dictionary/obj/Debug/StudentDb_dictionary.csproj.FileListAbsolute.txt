@@ -1,0 +1,7 @@
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day5\StudentDb_dictionary\bin\Debug\StudentDb_dictionary.exe.config
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day5\StudentDb_dictionary\bin\Debug\StudentDb_dictionary.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day5\StudentDb_dictionary\bin\Debug\StudentDb_dictionary.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day5\StudentDb_dictionary\obj\Debug\StudentDb_dictionary.csproj.AssemblyReference.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day5\StudentDb_dictionary\obj\Debug\StudentDb_dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day5\StudentDb_dictionary\obj\Debug\StudentDb_dictionary.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day5\StudentDb_dictionary\obj\Debug\StudentDb_dictionary.pdb
