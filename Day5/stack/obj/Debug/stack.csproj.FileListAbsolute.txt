@@ -1,0 +1,6 @@
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day5\stack\bin\Debug\stack.exe.config
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day5\stack\bin\Debug\stack.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day5\stack\bin\Debug\stack.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day5\stack\obj\Debug\stack.csproj.CoreCompileInputs.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day5\stack\obj\Debug\stack.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day5\stack\obj\Debug\stack.pdb
