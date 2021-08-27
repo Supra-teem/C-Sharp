@@ -1,0 +1,7 @@
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day5\linkedlist generic\bin\Debug\linkedlist generic.exe.config
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day5\linkedlist generic\bin\Debug\linkedlist generic.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day5\linkedlist generic\bin\Debug\linkedlist generic.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day5\linkedlist generic\obj\Debug\linkedlist generic.csproj.AssemblyReference.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day5\linkedlist generic\obj\Debug\linkedlist generic.csproj.CoreCompileInputs.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day5\linkedlist generic\obj\Debug\linkedlist generic.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day5\linkedlist generic\obj\Debug\linkedlist generic.pdb

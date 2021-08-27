@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hashtable", "hashtable\hash
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stack", "stack\stack.csproj", "{68B21298-6D62-4150-8FBD-1B10236680AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linkedlist generic", "linkedlist generic\linkedlist generic.csproj", "{965A7530-23D6-4A0A-A849-479A3E0DE879}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{68B21298-6D62-4150-8FBD-1B10236680AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68B21298-6D62-4150-8FBD-1B10236680AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68B21298-6D62-4150-8FBD-1B10236680AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{965A7530-23D6-4A0A-A849-479A3E0DE879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965A7530-23D6-4A0A-A849-479A3E0DE879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965A7530-23D6-4A0A-A849-479A3E0DE879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965A7530-23D6-4A0A-A849-479A3E0DE879}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

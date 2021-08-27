@@ -31,6 +31,8 @@ namespace stack
 
             }
             Console.WriteLine(s.Peek());
+            Console.WriteLine(s.Count);
+
 
         }
     }
