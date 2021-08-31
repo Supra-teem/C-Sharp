@@ -1,0 +1,7 @@
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day6\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day6\Delegate\bin\Debug\Delegate.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day6\Delegate\bin\Debug\Delegate.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day6\Delegate\obj\Debug\Delegate.csproj.AssemblyReference.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day6\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day6\Delegate\obj\Debug\Delegate.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day6\Delegate\obj\Debug\Delegate.pdb
