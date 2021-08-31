@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegate2", "delegate2\dele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Single responsibility principle", "Single responsibility principle\Single responsibility principle.csproj", "{B3BB0BFC-DA1A-4BEC-8437-AA2384D01D60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "liskovs principal", "liskovs principal\liskovs principal.csproj", "{B6AB9CA1-F8D6-4DD2-ACBD-E9C442004448}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B3BB0BFC-DA1A-4BEC-8437-AA2384D01D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3BB0BFC-DA1A-4BEC-8437-AA2384D01D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3BB0BFC-DA1A-4BEC-8437-AA2384D01D60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6AB9CA1-F8D6-4DD2-ACBD-E9C442004448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6AB9CA1-F8D6-4DD2-ACBD-E9C442004448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6AB9CA1-F8D6-4DD2-ACBD-E9C442004448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6AB9CA1-F8D6-4DD2-ACBD-E9C442004448}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

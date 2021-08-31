@@ -1,0 +1,7 @@
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day6\liskovs principal\bin\Debug\liskovs principal.exe.config
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day6\liskovs principal\bin\Debug\liskovs principal.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day6\liskovs principal\bin\Debug\liskovs principal.pdb
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day6\liskovs principal\obj\Debug\liskovs principal.csproj.AssemblyReference.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day6\liskovs principal\obj\Debug\liskovs principal.csproj.CoreCompileInputs.cache
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day6\liskovs principal\obj\Debug\liskovs principal.exe
+C:\Users\Suprateem\Desktop\Projects\C-Sharp\Day6\liskovs principal\obj\Debug\liskovs principal.pdb
