@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace Exception2
 {
+    public delegate void transactions(int s);
+
     class bank
     {
         public int amount=5000;
@@ -65,20 +67,27 @@ namespace Exception2
             bank b = new bank();
             try
             {
+                transactions t = new transactions(b.credit);
+                t(100);
+                t(100);
+                t(100);
 
 
                 b.user = "Suresh";
-                b.credit(100);
-                b.credit(100);
-                b.credit(100);
+                //b.credit(100);
+                //b.credit(100);
+                //b.credit(100);
             }
             catch (myexcep e)
             {
                 Console.WriteLine(e.Message);
             }
             try {
-                b.debit(1000);
-                b.debit(5000);
+                transactions t = new transactions(b.debit);
+                t(1000);
+                t(5000);
+                //b.debit(1000);
+                //b.debit(5000);
             }
                 catch (myexcep e1)
             {
